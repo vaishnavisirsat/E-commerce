@@ -37,7 +37,7 @@ export default class Datacart extends Component {
                                     <button 
                                     data-item-id={node.id}
                                     data-item-price={node.price}
-                                    data-item-url="https://learncodeonline.in/"
+                                    data-item-url="https://ecommercenetlify.netlify.app/"
                                     data-item-image={node.image.gatsbyImageData.GatsbyImage}
                                     data-item-name={node.title}
                                     className='btn btn-warning snipcart-add-item'>Buy Now</button>
